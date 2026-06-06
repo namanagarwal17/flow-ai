@@ -4,12 +4,6 @@ Flow AI is a modern no-code workflow automation platform that allows users to vi
 
 ---
 
-## 🌐 Live Demo
-
-(Add your deployed link here)
-
----
-
 ## 🧠 Features
 
 * 🎯 Drag-and-drop workflow builder (React Flow)
